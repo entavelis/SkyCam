@@ -24,9 +24,18 @@ The SkyCam dataset is a collection of images from 365 days from three different 
 
 To request access to the dataset please send a enquiry to evangelos.ntavelis [at] csem [dot] ch
 
+Options 1:
+
+Option 2:
+
+Option 3:
+
 ### Citation
 
 If you find the SkyCam dataset useful to your research/work please cite:
+
+### Licence
+
 
 ### Acknowledgements
 The  development  of  the  SkyCam dataset  was funded by the  Swiss  Federal  Office of  Energy  under  grant  SI/50151 as a collaborative project between CSEM and Meteotest.
