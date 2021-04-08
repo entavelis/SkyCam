@@ -1,4 +1,4 @@
-# CSEM-SkyCam
+# SkyCam
 
 [paper] [project-page] ![Video](https://user-images.githubusercontent.com/8151641/114007395-97258400-9861-11eb-9b28-9be0328c1d18.mp4)
 
