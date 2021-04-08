@@ -28,4 +28,9 @@ To request access to the dataset please send a enquiry to evangelos.ntavelis [at
 
 If you find the SkyCam dataset useful to your research/work please cite:
 
+### Acknowledgements
+The  development  of  the  SkyCam dataset  was funded by the  Swiss  Federal  Office of  Energy  under  grant  SI/50151 as a collaborative project between CSEM and Meteotest.
+
+![csem logo](https://user-images.githubusercontent.com/8151641/114016192-e1f7c980-986a-11eb-871c-4e0abaa2a16b.png)
+![meteotest](https://user-images.githubusercontent.com/8151641/114016207-e3c18d00-986a-11eb-8b89-d92f87737cd5.png)
 
