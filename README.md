@@ -22,7 +22,7 @@ The SkyCam dataset is a collection of images from 365 days from three different 
 
 ### Access Instructions
 
-To request access to the dataset please send a enquiry to evangelos.ntavelis [at] csem [dot] ch
+To request access to the dataset please send a enquiry to "info [at] csem [dot] ch" and "evangelos.ntavelis [at] csem [dot] ch"
 
 Option 1: Upon request will give you the credentials to access our ftp server
 
