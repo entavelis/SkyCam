@@ -1,6 +1,6 @@
 # SkyCam: A Dataset of Sky Images and their Irradiance values
 
-![paper](https://arxiv.org/abs/2105.02922) [project-page] ![Video](https://user-images.githubusercontent.com/8151641/114007395-97258400-9861-11eb-9b28-9be0328c1d18.mp4)
+[paper](https://arxiv.org/abs/2105.02922) [project-page] ![Video](https://user-images.githubusercontent.com/8151641/114007395-97258400-9861-11eb-9b28-9be0328c1d18.mp4)
 
 ![skycamgif](https://user-images.githubusercontent.com/8151641/114010516-7579cc00-9864-11eb-9bf6-5b155b9e7c47.gif)
 
@@ -35,6 +35,17 @@ If you find the SkyCam dataset useful to your research/work please cite:
 ### Licence
 
 Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) 
+
+```
+@misc{ntavelis2021skycam,
+      title={SkyCam: A Dataset of Sky Images and their Irradiance values}, 
+      author={Evangelos Ntavelis and Jan Remund and Philipp Schmid},
+      year={2021},
+      eprint={2105.02922},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
 
 ### Acknowledgements
 The  development  of  the  SkyCam dataset  was funded by the  Swiss  Federal  Office of  Energy  under  grant  SI/50151 as a collaborative project between CSEM and Meteotest.
