@@ -32,10 +32,6 @@ Option 2: Due to the size of the dataset, copying the files to a physical drive 
 
 If you find the SkyCam dataset useful to your research/work please cite:
 
-### Licence
-
-Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) 
-
 ```
 @misc{ntavelis2021skycam,
       title={SkyCam: A Dataset of Sky Images and their Irradiance values}, 
@@ -46,6 +42,11 @@ Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
       primaryClass={cs.CV}
 }
 ```
+
+
+### Licence
+
+Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) 
 
 ### Acknowledgements
 The  development  of  the  SkyCam dataset  was funded by the  Swiss  Federal  Office of  Energy  under  grant  SI/50151 as a collaborative project between CSEM and Meteotest.
