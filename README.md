@@ -1,6 +1,6 @@
 # SkyCam: A Dataset of Sky Images and their Irradiance values
 
-[Paper](https://arxiv.org/abs/2105.02922) [Meteotest-Article](https://meteotest.ch/firma/stories/skycam-daten-csem-und-meteotest-stellen-ihre-daten-zur-verfuegung) [CSEM-Article](https://www.csem.ch/page.aspx?pid=161281) ![Video](https://user-images.githubusercontent.com/8151641/114007395-97258400-9861-11eb-9b28-9be0328c1d18.mp4)
+[Paper](https://arxiv.org/abs/2105.02922) [Meteotest-Article](https://meteotest.ch/en/company/stories/skycam-daten-csem-und-meteotest-stellen-ihre-daten-zur-verfuegung) [CSEM-Article](https://www.csem.ch/page.aspx?pid=161281) ![Video](https://user-images.githubusercontent.com/8151641/114007395-97258400-9861-11eb-9b28-9be0328c1d18.mp4)
 
 ![skycamgif](https://user-images.githubusercontent.com/8151641/114010516-7579cc00-9864-11eb-9bf6-5b155b9e7c47.gif)
 
