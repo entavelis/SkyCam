@@ -22,7 +22,7 @@ The SkyCam dataset is a collection of images from 365 days from three different 
 
 ### Access Instructions
 
-To request access to the dataset please send a enquiry to "info [at] csem [dot] ch", "evangelos.ntavelis [at] csem [dot] ch" and/or "office [at] meteotest [dot] ch".
+To request access to the dataset please send a enquiry to "info [at] csem [dot] ch" and/or "office [at] meteotest [dot] ch".
 
 Option 1: Upon request will give you the credentials to access the Meteotest ftp server
 
